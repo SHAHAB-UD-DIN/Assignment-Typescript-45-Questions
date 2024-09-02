@@ -1,0 +1,10 @@
+"use strict";
+let personName = ["Abu Baker", "Bilal", "Usman", "Hamdan"];
+let message = `Hello ${personName[0]}, How are you?`;
+let message0 = `Hello ${personName[1]}, How are you?`;
+let message1 = `Hello ${personName[2]}, How are you?`;
+let message2 = `Hello ${personName[3]}, How are you?`;
+console.log(message);
+console.log(message0);
+console.log(message1);
+console.log(message2);
